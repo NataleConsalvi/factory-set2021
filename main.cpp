@@ -4,7 +4,8 @@
 
 int main() {
 
-        
+/*
+    
     Factory factory;
 
     cout << factory << endl;
@@ -53,6 +54,6 @@ int main() {
     part = factory.step();  // artefatto come prodotto finito, dovreste poterlo stampare
 
     cout << factory << endl;        
-
+*/
     return 0;
 };

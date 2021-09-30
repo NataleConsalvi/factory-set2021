@@ -87,7 +87,7 @@ DEBUG: adding machine h maintenance: 3
 DEBUG: adding machine i maintenance: 7
 DEBUG: adding machine l maintenance: 9
 DEBUG: adding machine m maintenance: 4
-DEBUG: adding machine n maintenance: 4
+DEBUG: adding machine n maintđenance: 4
 
 DEBUG: adding assembly line A maintenance:10, machines: e, f, g, h, i, m
 
